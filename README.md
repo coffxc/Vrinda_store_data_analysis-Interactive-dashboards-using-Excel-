@@ -23,8 +23,8 @@ Several steps were taken to clean the data:
 
 ## *Solutions:*
 To rectify the inconsistencies:
-i) All instances of 'Men' and 'Men' were replaced with 'M'.
-ii) Similar steps were taken for other columns by identifying and correcting any inconsistent data.
+- All instances of 'Men' and 'Men' were replaced with 'M'.
+- Similar steps were taken for other columns by identifying and correcting any inconsistent data.
 
 ## **Data Processing:**
 The following data processing steps were implemented:
