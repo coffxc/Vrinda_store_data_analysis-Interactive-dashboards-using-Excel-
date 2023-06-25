@@ -2,7 +2,8 @@
 ## **Project Objective:**
 Vrinda Stores aims to create an annual sales report for 2022, enabling them to gain insights into their customers and drive sales growth in 2023.
 ## **Dataset used:**
-[Vrinda store data Analysis](https://www.youtube.com/)
+
+[Vrinda Store Data Analysis](https://github.com/coffxc/Vrinda_store_data_analysis-Interactive-dashboards-using-Excel-/files/11860328/Vrinda_Store.Data.Analysis.xlsx)
 
 ## **Questions to be answered:**
 - Compare the sales and orders using single chart.
@@ -38,7 +39,9 @@ The data analysis phase involved:
 2) Merging all pivot tables into one dashboard and incorporating slicers to make the dashboard interactive and dynamic.
 
 ## **Dashboard:**
- 
+
+ ![dashboard](https://github.com/coffxc/Vrinda_store_data_analysis-Interactive-dashboards-using-Excel-/assets/102975079/84cfdac2-a3ef-4a49-8f20-96db571e41a2)
+
 ## **Project Insight:**
 The following insights were derived from the dashboards:
 1) Women customers have a higher likelihood of purchasing products compared to men, accounting for approximately 65% of total sales.
