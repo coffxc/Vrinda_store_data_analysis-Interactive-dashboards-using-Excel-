@@ -3,6 +3,17 @@
 Vrinda Stores aims to create an annual sales report for 2022, enabling them to gain insights into their customers and drive sales growth in 2023.
 ## **Dataset used:**
 
+
+## **Questions to be answered:**
+- Compare the sales and orders using single chart.
+- Which month got the highest sales and orders?
+- Who purchased more - Men or Women?
+- What are different order status in 2022?
+- List top 10 states contributingto the sales?
+- Relation between age and gender based on number of orders.
+- Which Channel is contributing maximum to the sales?
+- Highest selling category?
+
 ## **Data Cleaning:**
 Several steps were taken to clean the data:
 1) Each column was thoroughly examined to ensure data cleanliness.
