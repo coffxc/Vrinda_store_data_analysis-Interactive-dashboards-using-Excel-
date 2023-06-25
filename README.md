@@ -1,5 +1,5 @@
 # Vrinda_store_data_analysis-Interactive-dashboards-using-Excel-
-# Objective:
+## Objective:
 Vrinda Stores aims to create an annual sales report for 2022, enabling them to gain insights into their customers and drive sales growth in 2023.
 # Dataset Used:
 # Data Cleaning:
