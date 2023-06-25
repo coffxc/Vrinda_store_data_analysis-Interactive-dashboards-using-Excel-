@@ -2,7 +2,7 @@
 ## **Project Objective:**
 Vrinda Stores aims to create an annual sales report for 2022, enabling them to gain insights into their customers and drive sales growth in 2023.
 ## **Dataset used:**
-[Vrinda store data Analysis](Vrinda_Store Data Analysis.xlsx)
+[Vrinda store data Analysis](https://www.youtube.com/)
 
 ## **Questions to be answered:**
 - Compare the sales and orders using single chart.
